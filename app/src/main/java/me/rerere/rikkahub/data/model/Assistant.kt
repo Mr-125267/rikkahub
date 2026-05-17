@@ -1,4 +1,4 @@
-package me.rerere.rikkahub.data.model
+package me.rerere.yiAI.data.model
 
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
